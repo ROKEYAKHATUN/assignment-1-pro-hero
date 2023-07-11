@@ -141,16 +141,16 @@
   border-top-right-radius: 0;
 }
 .flower-card-instagram1 {
-  background: url("/assets/Flower 01.png"), lightgray 50% / cover no-repeat;
+  background: url("../assets/Flower 01.png"), lightgray 50% / cover no-repeat;
 }
 .flower-card-instagram2 {
-  background: url("/assets/Rectangle 4.png"), lightgray 50% / cover no-repeat;
+  background: url("../assets/Rectangle 4.png"), lightgray 50% / cover no-repeat;
 }
 .flower-card-instagram3 {
-  background: url("/assets/Rectangle 5.png"), lightgray 50% / cover no-repeat;
+  background: url("../assets/Rectangle 5.png"), lightgray 50% / cover no-repeat;
 }
 .flower-card-instagram4 {
-  background: url("/assets/Rectangle 6.png"), lightgray 50% / cover no-repeat;
+  background: url("../assets/Rectangle 6.png"), lightgray 50% / cover no-repeat;
 }
 .flowers-grid {
   display: grid;
@@ -244,7 +244,7 @@
   margin: auto 20%;
   border-radius: 8px;
   height: 450px;
-  background: url("/assets/Rectangle 9.png"),
+  background: url("../assets/Rectangle 9.png"),
     lightgray 0px -203.444px / cover no-repeat no-repeat;
 }
 
